@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hola, soy Melisa Peano 👋</h1>
-  <h3>🚀 Full Stack Developer | Software Engineering Student</h3>
+  <h1>Hi, I'm Melisa Peano 👋</h1>
+  <h3>🚀 Frontend & Full Stack Developer | Software Engineering Student</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/melisa-peano-b264822b9/">
@@ -17,24 +17,24 @@
 
 ---
 
-### 👩‍💻 Sobre mí
+### 👩‍💻 About Me
 
-Soy Desarrolladora Full Stack de Argentina 🇦🇷 y estudiante de **Ingeniería de Software** en Jala University (**Dean's List 2025** 🏅). Me apasiona el código limpio, la arquitectura de software y las metodologías ágiles.
+I am a Software Developer from Argentina 🇦🇷 with a strong foundation in Full Stack engineering and software architecture. Currently pursuing a degree in **Software Engineering** at Jala University (**Dean's List 2025** 🏅). I am passionate about clean code, bridging the gap between design and complex backend logic.
 
-- 🔭 **Actualmente:** Pasante Full Stack en **Swapy AR**, desarrollando con **Next.js, TypeScript y Zustand**.
-- 💼 **Experiencia previa:** Frontend Developer en Neural Code IA.
-- 🌱 **Aprendiendo:** Profundizando en patrones de diseño y arquitectura en .NET/Java.
-- ⚡ **Dato curioso:** Tengo un background en Ciencias Agropecuarias, lo que me dio una gran capacidad de resolución de problemas reales.
+- 🔭 **Currently:** Actively seeking new opportunities as a Frontend / Full Stack Developer while expanding my portfolio.
+- 💼 **Previous experience:** Frontend Developer Intern at **SWAPY AR** (building scalable UIs with Next.js, TypeScript, Zustand & DDD), and Full Stack Intern at **Neural Code IA**.
+- 🌱 **Learning:** Deepening my knowledge in advanced architectural patterns (MVVM, MVC) and the .NET/Java ecosystems.
+- ⚡ **Fun fact:** I have a background in Agricultural Sciences, which gave me a strong analytical mindset to solve complex, real-world problems.
 
 ---
 
-### 🏆 Proyectos Destacados
+### 🏆 Featured Projects
 
-| Proyecto | Descripción | Stack Tecnológico |
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🎮 Pac-Man Game** | Recreación del clásico juego arcade implementando lógica de movimiento, colisiones y entidades. Desarrollo de interfaz gráfica de escritorio. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Avalonia](https://img.shields.io/badge/AvaloniaUI-B9281E?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| **🛍️ Backend E-commerce** | API RESTful modular y escalable para plataforma de comercio electrónico. Incluye autenticación, gestión de productos y documentación. | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
-| **🏦 Módulo Bancario** | Sistema de gestión de préstamos con simulación de pagos y roles de usuario. Proyecto final con pipeline CI/CD completo. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
+| **🎮 Pac-Man Game** | Engineered a fully functional arcade replica from scratch. Applied the MVVM architectural pattern to strictly separate complex game logic from the UI rendering. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Avalonia](https://img.shields.io/badge/AvaloniaUI-B9281E?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| **🛍️ Backend E-commerce** | Modular and scalable RESTful API for an e-commerce platform. Includes authentication, product management, and clear API documentation. | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+| **🗓️ Appointment SPA** | Dynamic single-page application for scheduling. Implemented global state management, role-based UI rendering, and secure authentication flows. | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white) |
 
 ---
 
@@ -49,8 +49,9 @@ Soy Desarrolladora Full Stack de Argentina 🇦🇷 y estudiante de **Ingenierí
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zustand-brown?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 
-**Backend**
+**Backend & Architecture**
 <br>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
@@ -59,12 +60,13 @@ Soy Desarrolladora Full Stack de Argentina 🇦🇷 y estudiante de **Ingenierí
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
 
-**Bases de Datos & Tools**
+**Databases & Tools**
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </div>
 
